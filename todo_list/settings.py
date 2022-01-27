@@ -121,3 +121,4 @@ LOGIN_URL = 'login'
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = "/static/"
